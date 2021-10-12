@@ -1,0 +1,16 @@
+.home{
+
+}
+.text{
+  background-color: rgb(136, 115, 115);
+  padding-left: 54%;
+  color: #fff;
+}
+.img{
+  margin-left: 50%;
+}
+.footer{
+  margin-left: 50%;
+  position: absolute;
+  bottom:0;
+}
